@@ -11,7 +11,7 @@
 [t]: http://twitter.com/riku
 [g]: http://gitcafe.com/riku/Markdown-Syntax-CN
 [GitCafe]: http://gitcafe.com/riku/Markdown-Syntax-CN/
-[GitHub]: https://github.com/riku/Markdown-Syntax-CN
+[GitHub]: https://github.com/appinncom/Markdown-Syntax-CN
 [ appinn]: https://www.appinn.com
 
 Markdown: Basics （快速入门） / ([点击查看完整语法说明](./index.html))
