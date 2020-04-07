@@ -24,6 +24,8 @@
 
 * 项目主页：<https://www.appinn.com/markdown/>
 
+* Github：<https://github.com/appinncom/Markdown-Syntax-CN/>
+
 * IPFS: <https://ipfs.io/ipfs/QmZeJsgi17X2SiSn7ZKrkqx61wXtLy6yoiNSh5eqXhz62i/>
 
 * 繁体中文版主页：<http://markdown.tw/>
