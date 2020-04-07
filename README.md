@@ -22,8 +22,8 @@
 
 ### 链接
 
-项目主页：<https://www.appinn.com/markdown/>
+* 项目主页：<https://www.appinn.com/markdown/>
 
-IPFS: <https://ipfs.io/ipfs/QmZeJsgi17X2SiSn7ZKrkqx61wXtLy6yoiNSh5eqXhz62i/>
+* IPFS: <https://ipfs.io/ipfs/QmZeJsgi17X2SiSn7ZKrkqx61wXtLy6yoiNSh5eqXhz62i/>
 
-繁体中文版主页：<http://markdown.tw/>
+* 繁体中文版主页：<http://markdown.tw/>
