@@ -1,4 +1,4 @@
-### \###[点击查看《Markdown 语法》](https://www.appinn.com/markdown/)
+### [点击查看《Markdown 语法》](https://www.appinn.com/markdown/)
 
 ![](https://camo.githubusercontent.com/cea26671a29e4247ad29ddb8b7561fed17fe5a3b/68747470733a2f2f6d61726b646f776e2e74772f696d616765732f323038783132382e706e67)
 
@@ -7,9 +7,11 @@
 
 ## Markdown 语法 (简体中文版) 
 
-**声明:** 这份文档派生于[繁体中文版](http://markdown.tw/)，在此基础上进行了繁体转简体工作，并进行了适当的润色。此文档用 Markdown 语法编写，你可以到这里[查看它的源文件][src]。
+**声明:** 这份文档派生于[繁体中文版](http://markdown.tw/)，在此基础上进行了繁体转简体工作，并进行了适当的润色。此文档用 Markdown 语法编写，你可以到这里[查看它的源文件][src]。--By @riku
 
-**注：** 本项目托管于 [GitHub][]，请通过"派生"和"合并请求"来帮忙改进本项目。对 Markdown 语法内容的改善只需要修改 syntax.md 及 basics.md 这两个文件。
+**注：** 本项目托管于 [GitHub][]，由[小众软件](https://www.appinn.com/)重构。请通过"派生"和"合并请求"来帮忙改进本项目。对 Markdown 语法内容的改善只需要修改 syntax.md 及 basics.md 这两个文件。
+
+
 
 
 **注意：**繁体中文版的原始文件可以[查看这里][src] 。
