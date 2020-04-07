@@ -12,10 +12,9 @@
 
 **注意：**繁体中文版的原始文件可以[查看这里][src] 。
 
-  [src1]: http://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md
+  [src1]: https://github.com/appinncom/Markdown-Syntax-CN/blob/master/syntax.md
   [src]: https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md
-  [GitHub]: https://github.com/riku/Markdown-Syntax-CN/
-  [DigitalOcean.com VPS]:https://www.digitalocean.com/?refcode=824a4f4aea1a
+  [GitHub]: https://github.com/appinncom/Markdown-Syntax-CN/
 
 ### 链接
 
