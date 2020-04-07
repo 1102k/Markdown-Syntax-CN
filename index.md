@@ -828,11 +828,7 @@ _   底线
 
 ## 感谢
 
-感谢 [leafy7382](https://twitter.com/#!/leafy7382) 协助翻译，[hlb](http://iamhlb.com/)、[Randylien](https://twitter.com/randylien) 帮忙润稿，[ethantw](https://twitter.com/#!/ethantw) 的[汉字标准格式・CSS Reset](http://ethantw.net/projects/han/)， [WM](http://kidwm.net/) 回报文字错误。
-
-感谢 [fenprace](https://github.com/fenprace)，[addv](https://github.com/addv)。
-
-由 [小众软件](https://www.appinn.com) 使用 [Typora](http://typora.io/) 重构，以适应移动版本。
+感谢 [leafy7382](https://twitter.com/#!/leafy7382) 协助翻译，[hlb](http://iamhlb.com/)、[Randylien](https://twitter.com/randylien) 帮忙润稿，[ethantw](https://twitter.com/#!/ethantw) 的[汉字标准格式・CSS Reset](http://ethantw.net/projects/han/)， [WM](http://kidwm.net/) 回报文字错误。感谢 [fenprace](https://github.com/fenprace)，[addv](https://github.com/addv)。由 [小众软件](https://www.appinn.com) 使用 [Typora](http://typora.io/) 重构，以适应移动版本。
 
 ## 链接
 
