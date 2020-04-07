@@ -833,3 +833,10 @@ _   底线
 感谢 [fenprace](https://github.com/fenprace)，[addv](https://github.com/addv)。
 
 由 [小众软件](https://www.appinn.com) 使用 [Typora](http://typora.io/) 重构，以适应移动版本。
+
+## 链接
+
+* 项目主页：https://www.appinn.com/markdown/
+* Github：https://github.com/appinncom/Markdown-Syntax-CN/
+* IPFS: https://ipfs.io/ipfs/QmZeJsgi17X2SiSn7ZKrkqx61wXtLy6yoiNSh5eqXhz62i/
+* 繁体中文版主页：http://markdown.tw/
